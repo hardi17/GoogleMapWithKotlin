@@ -8,7 +8,9 @@ Using,
   - Go to the Googleconsole developer for google Map api key, https://console.cloud.google.com/apis/dashboard?project=certain-song-410817
   - Generate the google map api key by Click on Create API key to generate API key.
   - After clicking on Create API key, it will generate our API key displaying on the following screen.
-  - Paste the generated API key into Manifest file and replace key value with "YOUR_MAP_KEY".
+  - Copy and paste the generated API key into the AndroidManifest file, replacing the placeholder text "AlzaXXXXXXXXXXXXXXXXXX" with the actual key.
+
+<img width="607" alt="Screenshot 2024-01-10 201136" src="https://github.com/hardi17/GoogleMapWithKotlin/assets/68413354/8a877fbb-f9cc-44db-a89b-27b94f11bb42">
 
 ## Contributing to Learn Googlemap in kotlin
 
